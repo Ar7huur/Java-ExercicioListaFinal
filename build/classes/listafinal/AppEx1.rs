@@ -1,0 +1,4 @@
+listafinal.Dicionario
+listafinal.AppEx1
+listafinal.ExAulaFinal
+listafinal.Palavra
